@@ -106,8 +106,8 @@ node scripts/insert_test_staff.js
 
 Default seeded credentials:
 
-- Email: `wally@example.com`
-- Password: `#Wally123`
+- Email: 
+- Password: 
 
 ## Useful Endpoints
 
