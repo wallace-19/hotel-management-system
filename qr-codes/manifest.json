@@ -1,0 +1,711 @@
+{
+  "generatedAt": "2026-06-09T08:32:43.116Z",
+  "domain": "http://localhost:3000",
+  "totalTables": 100,
+  "successCount": 100,
+  "failureCount": 0,
+  "validatedCount": 100,
+  "tables": [
+    {
+      "tableId": 1,
+      "url": "http://localhost:3000/tables/1",
+      "pngFile": "table_1_qr.png",
+      "svgFile": "table_1_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 2,
+      "url": "http://localhost:3000/tables/2",
+      "pngFile": "table_2_qr.png",
+      "svgFile": "table_2_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 3,
+      "url": "http://localhost:3000/tables/3",
+      "pngFile": "table_3_qr.png",
+      "svgFile": "table_3_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 4,
+      "url": "http://localhost:3000/tables/4",
+      "pngFile": "table_4_qr.png",
+      "svgFile": "table_4_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 5,
+      "url": "http://localhost:3000/tables/5",
+      "pngFile": "table_5_qr.png",
+      "svgFile": "table_5_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 6,
+      "url": "http://localhost:3000/tables/6",
+      "pngFile": "table_6_qr.png",
+      "svgFile": "table_6_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 7,
+      "url": "http://localhost:3000/tables/7",
+      "pngFile": "table_7_qr.png",
+      "svgFile": "table_7_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 8,
+      "url": "http://localhost:3000/tables/8",
+      "pngFile": "table_8_qr.png",
+      "svgFile": "table_8_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 9,
+      "url": "http://localhost:3000/tables/9",
+      "pngFile": "table_9_qr.png",
+      "svgFile": "table_9_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 10,
+      "url": "http://localhost:3000/tables/10",
+      "pngFile": "table_10_qr.png",
+      "svgFile": "table_10_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 11,
+      "url": "http://localhost:3000/tables/11",
+      "pngFile": "table_11_qr.png",
+      "svgFile": "table_11_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 12,
+      "url": "http://localhost:3000/tables/12",
+      "pngFile": "table_12_qr.png",
+      "svgFile": "table_12_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 13,
+      "url": "http://localhost:3000/tables/13",
+      "pngFile": "table_13_qr.png",
+      "svgFile": "table_13_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 14,
+      "url": "http://localhost:3000/tables/14",
+      "pngFile": "table_14_qr.png",
+      "svgFile": "table_14_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 15,
+      "url": "http://localhost:3000/tables/15",
+      "pngFile": "table_15_qr.png",
+      "svgFile": "table_15_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 16,
+      "url": "http://localhost:3000/tables/16",
+      "pngFile": "table_16_qr.png",
+      "svgFile": "table_16_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 17,
+      "url": "http://localhost:3000/tables/17",
+      "pngFile": "table_17_qr.png",
+      "svgFile": "table_17_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 18,
+      "url": "http://localhost:3000/tables/18",
+      "pngFile": "table_18_qr.png",
+      "svgFile": "table_18_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 19,
+      "url": "http://localhost:3000/tables/19",
+      "pngFile": "table_19_qr.png",
+      "svgFile": "table_19_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 20,
+      "url": "http://localhost:3000/tables/20",
+      "pngFile": "table_20_qr.png",
+      "svgFile": "table_20_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 21,
+      "url": "http://localhost:3000/tables/21",
+      "pngFile": "table_21_qr.png",
+      "svgFile": "table_21_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 22,
+      "url": "http://localhost:3000/tables/22",
+      "pngFile": "table_22_qr.png",
+      "svgFile": "table_22_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 23,
+      "url": "http://localhost:3000/tables/23",
+      "pngFile": "table_23_qr.png",
+      "svgFile": "table_23_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 24,
+      "url": "http://localhost:3000/tables/24",
+      "pngFile": "table_24_qr.png",
+      "svgFile": "table_24_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 25,
+      "url": "http://localhost:3000/tables/25",
+      "pngFile": "table_25_qr.png",
+      "svgFile": "table_25_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 26,
+      "url": "http://localhost:3000/tables/26",
+      "pngFile": "table_26_qr.png",
+      "svgFile": "table_26_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 27,
+      "url": "http://localhost:3000/tables/27",
+      "pngFile": "table_27_qr.png",
+      "svgFile": "table_27_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 28,
+      "url": "http://localhost:3000/tables/28",
+      "pngFile": "table_28_qr.png",
+      "svgFile": "table_28_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 29,
+      "url": "http://localhost:3000/tables/29",
+      "pngFile": "table_29_qr.png",
+      "svgFile": "table_29_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 30,
+      "url": "http://localhost:3000/tables/30",
+      "pngFile": "table_30_qr.png",
+      "svgFile": "table_30_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 31,
+      "url": "http://localhost:3000/tables/31",
+      "pngFile": "table_31_qr.png",
+      "svgFile": "table_31_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 32,
+      "url": "http://localhost:3000/tables/32",
+      "pngFile": "table_32_qr.png",
+      "svgFile": "table_32_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 33,
+      "url": "http://localhost:3000/tables/33",
+      "pngFile": "table_33_qr.png",
+      "svgFile": "table_33_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 34,
+      "url": "http://localhost:3000/tables/34",
+      "pngFile": "table_34_qr.png",
+      "svgFile": "table_34_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 35,
+      "url": "http://localhost:3000/tables/35",
+      "pngFile": "table_35_qr.png",
+      "svgFile": "table_35_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 36,
+      "url": "http://localhost:3000/tables/36",
+      "pngFile": "table_36_qr.png",
+      "svgFile": "table_36_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 37,
+      "url": "http://localhost:3000/tables/37",
+      "pngFile": "table_37_qr.png",
+      "svgFile": "table_37_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 38,
+      "url": "http://localhost:3000/tables/38",
+      "pngFile": "table_38_qr.png",
+      "svgFile": "table_38_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 39,
+      "url": "http://localhost:3000/tables/39",
+      "pngFile": "table_39_qr.png",
+      "svgFile": "table_39_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 40,
+      "url": "http://localhost:3000/tables/40",
+      "pngFile": "table_40_qr.png",
+      "svgFile": "table_40_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 41,
+      "url": "http://localhost:3000/tables/41",
+      "pngFile": "table_41_qr.png",
+      "svgFile": "table_41_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 42,
+      "url": "http://localhost:3000/tables/42",
+      "pngFile": "table_42_qr.png",
+      "svgFile": "table_42_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 43,
+      "url": "http://localhost:3000/tables/43",
+      "pngFile": "table_43_qr.png",
+      "svgFile": "table_43_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 44,
+      "url": "http://localhost:3000/tables/44",
+      "pngFile": "table_44_qr.png",
+      "svgFile": "table_44_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 45,
+      "url": "http://localhost:3000/tables/45",
+      "pngFile": "table_45_qr.png",
+      "svgFile": "table_45_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 46,
+      "url": "http://localhost:3000/tables/46",
+      "pngFile": "table_46_qr.png",
+      "svgFile": "table_46_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 47,
+      "url": "http://localhost:3000/tables/47",
+      "pngFile": "table_47_qr.png",
+      "svgFile": "table_47_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 48,
+      "url": "http://localhost:3000/tables/48",
+      "pngFile": "table_48_qr.png",
+      "svgFile": "table_48_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 49,
+      "url": "http://localhost:3000/tables/49",
+      "pngFile": "table_49_qr.png",
+      "svgFile": "table_49_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 50,
+      "url": "http://localhost:3000/tables/50",
+      "pngFile": "table_50_qr.png",
+      "svgFile": "table_50_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 51,
+      "url": "http://localhost:3000/tables/51",
+      "pngFile": "table_51_qr.png",
+      "svgFile": "table_51_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 52,
+      "url": "http://localhost:3000/tables/52",
+      "pngFile": "table_52_qr.png",
+      "svgFile": "table_52_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 53,
+      "url": "http://localhost:3000/tables/53",
+      "pngFile": "table_53_qr.png",
+      "svgFile": "table_53_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 54,
+      "url": "http://localhost:3000/tables/54",
+      "pngFile": "table_54_qr.png",
+      "svgFile": "table_54_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 55,
+      "url": "http://localhost:3000/tables/55",
+      "pngFile": "table_55_qr.png",
+      "svgFile": "table_55_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 56,
+      "url": "http://localhost:3000/tables/56",
+      "pngFile": "table_56_qr.png",
+      "svgFile": "table_56_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 57,
+      "url": "http://localhost:3000/tables/57",
+      "pngFile": "table_57_qr.png",
+      "svgFile": "table_57_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 58,
+      "url": "http://localhost:3000/tables/58",
+      "pngFile": "table_58_qr.png",
+      "svgFile": "table_58_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 59,
+      "url": "http://localhost:3000/tables/59",
+      "pngFile": "table_59_qr.png",
+      "svgFile": "table_59_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 60,
+      "url": "http://localhost:3000/tables/60",
+      "pngFile": "table_60_qr.png",
+      "svgFile": "table_60_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 61,
+      "url": "http://localhost:3000/tables/61",
+      "pngFile": "table_61_qr.png",
+      "svgFile": "table_61_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 62,
+      "url": "http://localhost:3000/tables/62",
+      "pngFile": "table_62_qr.png",
+      "svgFile": "table_62_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 63,
+      "url": "http://localhost:3000/tables/63",
+      "pngFile": "table_63_qr.png",
+      "svgFile": "table_63_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 64,
+      "url": "http://localhost:3000/tables/64",
+      "pngFile": "table_64_qr.png",
+      "svgFile": "table_64_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 65,
+      "url": "http://localhost:3000/tables/65",
+      "pngFile": "table_65_qr.png",
+      "svgFile": "table_65_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 66,
+      "url": "http://localhost:3000/tables/66",
+      "pngFile": "table_66_qr.png",
+      "svgFile": "table_66_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 67,
+      "url": "http://localhost:3000/tables/67",
+      "pngFile": "table_67_qr.png",
+      "svgFile": "table_67_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 68,
+      "url": "http://localhost:3000/tables/68",
+      "pngFile": "table_68_qr.png",
+      "svgFile": "table_68_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 69,
+      "url": "http://localhost:3000/tables/69",
+      "pngFile": "table_69_qr.png",
+      "svgFile": "table_69_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 70,
+      "url": "http://localhost:3000/tables/70",
+      "pngFile": "table_70_qr.png",
+      "svgFile": "table_70_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 71,
+      "url": "http://localhost:3000/tables/71",
+      "pngFile": "table_71_qr.png",
+      "svgFile": "table_71_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 72,
+      "url": "http://localhost:3000/tables/72",
+      "pngFile": "table_72_qr.png",
+      "svgFile": "table_72_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 73,
+      "url": "http://localhost:3000/tables/73",
+      "pngFile": "table_73_qr.png",
+      "svgFile": "table_73_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 74,
+      "url": "http://localhost:3000/tables/74",
+      "pngFile": "table_74_qr.png",
+      "svgFile": "table_74_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 75,
+      "url": "http://localhost:3000/tables/75",
+      "pngFile": "table_75_qr.png",
+      "svgFile": "table_75_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 76,
+      "url": "http://localhost:3000/tables/76",
+      "pngFile": "table_76_qr.png",
+      "svgFile": "table_76_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 77,
+      "url": "http://localhost:3000/tables/77",
+      "pngFile": "table_77_qr.png",
+      "svgFile": "table_77_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 78,
+      "url": "http://localhost:3000/tables/78",
+      "pngFile": "table_78_qr.png",
+      "svgFile": "table_78_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 79,
+      "url": "http://localhost:3000/tables/79",
+      "pngFile": "table_79_qr.png",
+      "svgFile": "table_79_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 80,
+      "url": "http://localhost:3000/tables/80",
+      "pngFile": "table_80_qr.png",
+      "svgFile": "table_80_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 81,
+      "url": "http://localhost:3000/tables/81",
+      "pngFile": "table_81_qr.png",
+      "svgFile": "table_81_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 82,
+      "url": "http://localhost:3000/tables/82",
+      "pngFile": "table_82_qr.png",
+      "svgFile": "table_82_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 83,
+      "url": "http://localhost:3000/tables/83",
+      "pngFile": "table_83_qr.png",
+      "svgFile": "table_83_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 84,
+      "url": "http://localhost:3000/tables/84",
+      "pngFile": "table_84_qr.png",
+      "svgFile": "table_84_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 85,
+      "url": "http://localhost:3000/tables/85",
+      "pngFile": "table_85_qr.png",
+      "svgFile": "table_85_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 86,
+      "url": "http://localhost:3000/tables/86",
+      "pngFile": "table_86_qr.png",
+      "svgFile": "table_86_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 87,
+      "url": "http://localhost:3000/tables/87",
+      "pngFile": "table_87_qr.png",
+      "svgFile": "table_87_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 88,
+      "url": "http://localhost:3000/tables/88",
+      "pngFile": "table_88_qr.png",
+      "svgFile": "table_88_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 89,
+      "url": "http://localhost:3000/tables/89",
+      "pngFile": "table_89_qr.png",
+      "svgFile": "table_89_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 90,
+      "url": "http://localhost:3000/tables/90",
+      "pngFile": "table_90_qr.png",
+      "svgFile": "table_90_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 91,
+      "url": "http://localhost:3000/tables/91",
+      "pngFile": "table_91_qr.png",
+      "svgFile": "table_91_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 92,
+      "url": "http://localhost:3000/tables/92",
+      "pngFile": "table_92_qr.png",
+      "svgFile": "table_92_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 93,
+      "url": "http://localhost:3000/tables/93",
+      "pngFile": "table_93_qr.png",
+      "svgFile": "table_93_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 94,
+      "url": "http://localhost:3000/tables/94",
+      "pngFile": "table_94_qr.png",
+      "svgFile": "table_94_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 95,
+      "url": "http://localhost:3000/tables/95",
+      "pngFile": "table_95_qr.png",
+      "svgFile": "table_95_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 96,
+      "url": "http://localhost:3000/tables/96",
+      "pngFile": "table_96_qr.png",
+      "svgFile": "table_96_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 97,
+      "url": "http://localhost:3000/tables/97",
+      "pngFile": "table_97_qr.png",
+      "svgFile": "table_97_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 98,
+      "url": "http://localhost:3000/tables/98",
+      "pngFile": "table_98_qr.png",
+      "svgFile": "table_98_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 99,
+      "url": "http://localhost:3000/tables/99",
+      "pngFile": "table_99_qr.png",
+      "svgFile": "table_99_qr.svg",
+      "pngWithLogo": null
+    },
+    {
+      "tableId": 100,
+      "url": "http://localhost:3000/tables/100",
+      "pngFile": "table_100_qr.png",
+      "svgFile": "table_100_qr.svg",
+      "pngWithLogo": null
+    }
+  ],
+  "failures": []
+}
